@@ -3,6 +3,7 @@ package com.mycompany.app;
 /**
  * Hello world!
  comment added
+ comment added 2
  *
  */
 public class App 
